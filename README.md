@@ -1,4 +1,4 @@
-# 📊 MySQL Excel Data Uploader with PDF Report Generator
+# 📊 MySQL Excel Data Uploader Eith Python with PDF Report Generator
 
 A powerful Python desktop application to upload Excel files directly into MySQL databases with authentication and generate PDF reports summarizing uploaded records. Built for data analysts, finance teams, and backend admins.
 
