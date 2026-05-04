@@ -2194,7 +2194,7 @@ class MySQLExcelUploaderGUI:
 
         # Connection Fields with improved layout
         fields = [
-            ("Host:", "192.168.1.171", "-", 0),
+            ("Host:", "192.168.1.11", "-", 0),
             ("Username:", "SRA", "%", 1),
             ("Password:", "123", "*", 2),
             ("Database.Table:", ConfigManager.get_database_options()[0], None, 3)
@@ -2936,7 +2936,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-
+# Show Reports accordingly
 
 
 
